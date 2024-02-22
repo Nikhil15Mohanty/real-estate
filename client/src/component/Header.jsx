@@ -1,6 +1,5 @@
 import { Link } from 'react-router-dom'
 import {FaSearch} from 'react-icons/fa'
-import { SignIn } from '../pages/SignIn'
 export const Header = () => {
   return (
     <header className='bg-slate-400 shadow-md'>
